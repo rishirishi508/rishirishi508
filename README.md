@@ -43,9 +43,8 @@
 ---
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/rishirishi508" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
 ---
 
 ##  Current Focus
