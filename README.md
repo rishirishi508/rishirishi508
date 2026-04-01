@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ponrishi M</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | Flutter Learner</h3>
 
 <p align="center">
-  💡 Passionate about building real-world applications <br>
-  🔗 Working on Blockchain + Web Projects <br>
-  📱 Future Cross-Platform App Developer
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Learner;Flutter+Enthusiast;Building+Real+World+Projects🔥">
 </p>
 
 ---
@@ -27,51 +24,69 @@
 
 ---
 
-## 💻 Tech Stack
+## 🚀 About Me
+
+- 🎓 3rd Year Engineering Student  
+- 💻 MERN Stack Developer  
+- 📱 Learning Flutter for Cross-Platform Apps  
+- 🔗 Building Blockchain-Based Projects  
+- ⚡ Focused on Real-World Problem Solving  
+
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,flutter,dart,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,flutter,dart,git,github&perline=6" />
 </p>
 
 ---
 
-## 🚀 Projects
-
-🔹 **Blockchain Organ Donation System**  
-- Smart contract-based secure data handling  
-- Connected frontend with blockchain  
-
-🔹 **Smart Parking System**  
-- Image processing + automation  
-- Real-time slot detection  
-
-🔹 **Portfolio Website**  
-- Dark/Light mode 🌙☀️  
-- Modern UI with animations  
-
----
-
-## 📊 GitHub Stats
+## 🔥 Featured Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_3&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_4&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Current Focus
+## 🐍 Contribution Snake
 
-- 🚀 Mastering MERN Stack
-- 📱 Learning Flutter for App Development
-- 💡 Building Unique Final Year Projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## 🎯 Current Focus
 
-> I turn ideas into real-world applications 🚀
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Flutter-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Goal-App%20Developer-orange?style=for-the-badge" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+## ⚡ Fun Line
+
+<p align="center">
+  💡 "I don't just write code, I build solutions." 🚀
+</p>
 
 ---
 
