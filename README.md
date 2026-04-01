@@ -15,14 +15,6 @@ I'm a B.Tech IT student** at **CIET College**, passionate about building **web a
 
 ---
 
-## 💻 Current Projects
-
-- 🎵 **Music Dashboard** – A Spotify-inspired web app  
-- 🍽️ **Food Ordering App** – A Swiggy-like platform  
-- 🏥 **Organ Donation Management System** – React & Blockchain-powered  
-
----
-
 ## 📌 Achievements & Events
 
 - Participated in **Dezino'24 & Infinity'24** at CIET Coimbatore  
