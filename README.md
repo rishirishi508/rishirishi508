@@ -42,16 +42,8 @@
 
 ---
 
-##  Featured Repositories
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_3&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_4&theme=tokyonight" />
+  <img src="https://ghchart.rshah.org/rishirishi508" />
 </p>
 
 ---
