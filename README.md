@@ -67,12 +67,11 @@
 ---
 
 
-##  Achievements
+##  Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishirishi508&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishirishi508&theme=tokyonight" />
 </p>
-
 ---
 
 ##  Fun Line
