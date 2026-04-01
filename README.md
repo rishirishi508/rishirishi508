@@ -68,7 +68,7 @@
 ##  Fun Line
 
 <p align="center">
-   "I don't just write code, I build solutions." 
+   "Code. Build. Solve. Repeat." 
 </p>
 
 ---
