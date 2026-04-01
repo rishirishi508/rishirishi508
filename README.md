@@ -1,7 +1,7 @@
 <h1 align="center">Hi!! , I'm Ponrishi M</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Learner;Flutter+Enthusiast;Building+Real+World+Projects">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Flutter+App+Developer;Full+Stack+Developer;MERN+Stack;Delivering+Real-World+Solutions">
 </p>
 
 ---
