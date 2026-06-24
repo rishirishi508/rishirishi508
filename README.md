@@ -68,7 +68,7 @@
 ##  Fun Line
 
 <p align="center">
-   "Code. Build. Solve. Repeat." 
+   "Code. Build. Innovate. Repeat." 
 </p>
 
 ---
