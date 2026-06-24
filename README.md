@@ -1,7 +1,7 @@
 <h1 align="center">Hi!! , I'm Ponrishi M</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Flutter+App+Developer;Full+Stack+Developer;MERN+Stack;Delivering+Real-World+Solutions">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Flutter+App+Development;MERN+Stack;Delivering+Real-World+Solutions">
 </p>
 
 ---
@@ -26,10 +26,9 @@
 
 ## About Me
 
--  3rd Year Engineering Student  
+-  Final-Year Engineering Student  
 -  MERN Stack Developer  
--  Learning Flutter for Cross-Platform Apps  
--  Building Blockchain-Based Projects  
+-  Learning Flutter for Cross-Platform Apps   
 -  Focused on Real-World Problem Solving  
 
 ---
